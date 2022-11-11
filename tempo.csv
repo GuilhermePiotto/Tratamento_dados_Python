@@ -1,0 +1,15 @@
+﻿Aparencia;Temperatura;Umidade;Vento;Jogar
+sol;85;85;FALSO;nao
+sol;80;90;VERDADEIRO;nao
+nublado;83;86;FALSO;sim
+chuva;70;;FALSO;sim
+chuva;68;80;FALSO;sim
+chuva;65;70;VERDADEIRO;nao
+menos;64;65;VERDADEIRO;sim
+sol;1220;95;FALSO;nao
+sol;69;70;FALSO;sim
+chuva;75;200;;sim
+sol;75;70;VERDADEIRO;sim
+nublado;72;90;VERDADEIRO;sim
+nublado;81;75;FALSO;sim
+chuva;71;91;VERDADEIRO;nao
